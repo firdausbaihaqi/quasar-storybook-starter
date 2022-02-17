@@ -1,6 +1,6 @@
 # Quasar App (quasar-storybook-starter)
 
-A Quasar + Storybook with Typescript starter template
+Quasar 2.5 + Storybook 6.5 alpha with Vue 3 Typescript starter template
 
 ## Install the dependencies
 
